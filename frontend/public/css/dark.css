@@ -1,0 +1,39 @@
+body{
+    background-color: #19222b !important;
+    color: #93a9bf !important;
+}
+#mainNav{
+    background-color: #056a80 !important;
+}
+.table{
+    color: #93a9bf !important;
+    background-color: #056a80;
+}
+tr:hover{
+    color: white !important;
+}
+th{
+    color: white !important;
+}
+.landmarkImage {
+    background-color: #19222b ;
+}
+input {
+    background-color: #a8bbe0 !important;
+}
+.landmarkItem{
+    background-color:  #056a80 !important;
+}
+.list-group-item
+{
+    background-color:  #056a80 !important;
+}
+.reviewInfo{
+    color: lightgray !important;
+}
+.helpfulSpan{
+    color: lightgray !important;
+}
+.modal-content{
+    background-color: #19222b !important;
+}

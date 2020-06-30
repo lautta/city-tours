@@ -1,0 +1,16 @@
+body{
+    color: black;
+    background-color: white;
+}
+#mainNav{
+    background-color: #e94435 !important;
+}
+.nav-link{
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.btn-primary {
+    background-color: #2984d9 !important;
+}
+.btn-secondary{
+    background-color: #e94435 !important;
+}

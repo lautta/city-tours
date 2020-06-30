@@ -1,0 +1,29 @@
+body{
+    color: black;
+    background-color: #b6d4be;
+}
+#mainNav{
+    background-color: #32a852 !important;
+}
+.nav-link{
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.btn-primary {
+    background-color: #1a5c2c !important;
+}
+.btn-secondary{
+    background-color: #32a852 !important;
+}
+.landmarkItem{
+    background-color:  #91cca1 !important;
+}
+.list-group-item
+{
+    background-color:  #b6d4be  !important;
+}
+.modal-content{
+    background-color: #b6d4be  !important;
+}
+input {
+    background-color: #91cca1 !important;
+}
